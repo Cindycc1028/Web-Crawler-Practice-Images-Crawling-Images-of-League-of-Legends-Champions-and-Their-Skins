@@ -1,0 +1,2 @@
+# Web-Crawler-Practice-Images-Crawling-Images-of-League-of-Legends-Champions-and-Their-Skins
+The gradual acceptance of esports by the Asian Games and the Olympics is essentially an embrace of younger generations and their immense market potential. After learning about web scraping, it occurred to me whether this could be an opportunity to crawl the images of champion characters and their skins in this game.
